@@ -250,4 +250,8 @@ $RECYCLE.BIN/
 #Agregamos la imagen 'pie.png'
 *.png
 
+# Ignorar el archivo de variables de entorno
+.env
+
+
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,macos,linux
